@@ -1,5 +1,5 @@
 # Desafio de Projeto da DIO - **Construindo seu Primeiro Projeto Lógico de Banco de Dados (ECOMMERCE)**
-#### Projeto proposto no Bootcamp [Geração Tech Unimed-BH - Ciência de Dados](https://www.dio.me/bootcamp/geracao-tech-unimed-bh-ciencia-de-dados?ref=CG-bootcamp-unimed-bh-ciencia-de-dados) na plataforma [DIO.](https://www.dio.me/)
+#### Projeto proposto no Bootcamp [Heineken - Inteligência Artificial Aplicada a Dados com Copilot](https://web.dio.me/track/502225f7-8b50-41f7-86bf-67e8f3c1ed78) na plataforma [DIO.](https://www.dio.me/)
 
 ## Descrição do Desafio
 _"Neste desafio, iremos replicar a modelagem do projeto lógico de banco de dados para um cenário de e-commerce."_ 
@@ -41,7 +41,3 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 ---
 
 O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em outro projeto dio também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench 8.0 CE conforme orientado pela professora que ministra o curso.
-
-## Certificado
-
-![img](https://github.com/htonioni/mysql-ecommerce-dio._/blob/master/certificado/certificado.jpg)
